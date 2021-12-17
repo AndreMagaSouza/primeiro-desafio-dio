@@ -1,0 +1,5 @@
+git status
+
+git commit -m "Comentário"
+
+git push origin main
